@@ -1,4 +1,4 @@
-# Global mouse hook & keybpard hook.
+# Global mouse hook & keyboard hook.
 
 
 
